@@ -1,6 +1,8 @@
 # pr_template
 a simple pr_template ready to use
 
+![preview](https://i.imgur.com/kS6JoFR.png)
+
 ## how to add a pull request template to my repo?
 
 Download (or `git clone`) the repo and move the `.github` folder into your repo.
